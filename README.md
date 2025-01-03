@@ -5,7 +5,7 @@
 
 # Usage
 
-Download Hist.exe from the google drive link in "app_link" or Open the content as a folder in your compiler and run HiSt.py in the terminal.
+Download HiSt.exe from the google drive link in "app_link" or Open the content as a folder in your compiler and run HiSt.py in the terminal.
 
 ![icon](https://github.com/user-attachments/assets/98f1d7fa-bd8f-4c84-b36a-021ac67c5326)
 
