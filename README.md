@@ -7,7 +7,7 @@
 
 Run Hist.exe in the dist folder or Open the content as a folder in your compiler and run HiSt.py in the terminal.
 
-![alt text](icon.jpg)
+![icon](https://github.com/user-attachments/assets/98f1d7fa-bd8f-4c84-b36a-021ac67c5326)
 
 ## Features
 
